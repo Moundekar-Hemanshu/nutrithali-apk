@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">NutriThali</string>
+    <string name="title_activity_main">NutriThali</string>
+    <string name="package_name">com.nutrithali.macro</string>
+    <string name="custom_url_scheme">com.nutrithali.macro</string>
+</resources>
